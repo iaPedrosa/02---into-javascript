@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.js": "/iaPedrosa/02---into-javascript/static/js/main.31d6cfe0.js",
-    "index.html": "/iaPedrosa/02---into-javascript/index.html"
+    "main.js": "/iaPedrosa/02---into-javascript/static/js/main.e638bbdb.js",
+    "index.html": "/iaPedrosa/02---into-javascript/index.html",
+    "main.e638bbdb.js.map": "/iaPedrosa/02---into-javascript/static/js/main.e638bbdb.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/js/main.e638bbdb.js"
   ]
 }
